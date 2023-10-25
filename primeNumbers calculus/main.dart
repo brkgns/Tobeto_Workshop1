@@ -17,6 +17,6 @@ void asal(int n) {
   }
 }
 void main() { 
-  var b = 97; // örnek sayı olarak 53 seçtim.
+  var b = 97; // örnek sayı olarak 97 sayısını seçtim.
   asal(b);
 }
